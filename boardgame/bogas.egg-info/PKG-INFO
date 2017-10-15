@@ -1,0 +1,17 @@
+Metadata-Version: 1.1
+Name: bogas
+Version: 0.1.0
+Summary: Universal BOard GAme Simulator
+Home-page: TBD
+Author: Marco Capitani
+Author-email: capitani.mrc@gmail.com
+License: GPLv2
+Description: BOard GAme Simulator
+        ====================
+Keywords: board-game game-development
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: End Users/DesktopTopic :: Games/Entertainment :: Board Games
+Classifier: License :: OSI Approved :: GNU General Public License v2 (GPLv2)
+Classifier: Programming Language :: Python :: 3.6
